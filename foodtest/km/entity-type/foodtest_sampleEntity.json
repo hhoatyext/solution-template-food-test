@@ -1,5 +1,5 @@
 {
-  "$id": "foodtest_sampleEntity",
+  "$id": "foodtest_${{entityName}}",
   "$schema": "https://schema.yext.com/config/km/entity-type/v1",
   "description": "",
   "displayName": "Article",
